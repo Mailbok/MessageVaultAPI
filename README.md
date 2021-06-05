@@ -2,7 +2,7 @@ Message Vault API
 
 Send password protected messages to your friends.
 
-This is the backend for the application - designed to be used with the frontend sister project MessageVaultUI
+This is the backend for the application - designed to be used with the frontend sister project MessageVaultUI https://github.com/Mailbok/MessageVaultUI
 
 Start service:
 
