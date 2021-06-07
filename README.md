@@ -8,5 +8,7 @@ Start service:
 
 1. git clone https://github.com/Mailbok/MessageVaultAPI.git
 2. cd MessageVaultAPI
-3. python3 -m pip install -r requirements.txt
-4. python3 main.py
+3. python -m pip install -r requirements.txt
+4. python main.py
+
+**Depending on machine configuration you may need to use 'python3' in place of 'python' for the above commands.**
